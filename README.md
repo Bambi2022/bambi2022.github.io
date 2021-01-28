@@ -3,7 +3,6 @@
 # Beautiful Jekyll
 
 ![](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=blue&up_message=Online&url=http%3A%2F%2Fbambi2022.github.io)
-
 ![](https://img.shields.io/github/issues/bambi2022/bambi2022.github.io) 
 ![](https://img.shields.io/github/issues-closed/bambi2022/bambi2022.github.io)
 ![](https://img.shields.io/github/last-commit/bambi2022/bambi2022.github.io)
