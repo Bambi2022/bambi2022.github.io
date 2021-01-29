@@ -1,4 +1,4 @@
-![](https://i.ibb.co/jJFt15r/Banner.png)
+![](https://i.ibb.co/0CDvPjm/Untitled-design.png")
 
 # Beautiful Jekyll
 
