@@ -4,7 +4,9 @@ title: About me
 subtitle: Sorry (not really) but I'm taken
 ---
 
-(Briefcase Icon) My only work experience so far was in the summer of 2019 when worked as a volunteer for the Mesa Public Libary.
+<script src="https://kit.fontawesome.com/2c9bee6acd.js" crossorigin="anonymous"></script>
+
+<i class="fas fa-briefcase"></i>My only work experience so far was in the summer of 2019 when worked as a volunteer for the Mesa Public Libary.
 
 (Cap Icon) I'm am currently going to high school and will graduate in 2022. I plan on going to Grand Canyon University and getting my Masters Degree in Cybersecurity. When it comes to programming I am self taught and I am currently taking classes for HTML and Python.
 
