@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Sorry (not really) but I'm taken
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+(Briefcase Icon) My only work experience so far was in the summer of 2019 when worked as a volunteer for the Mesa Public Libary.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+(Cap Icon) I'm am currently going to high school and will graduate in 2022. I plan on going to Grand Canyon University and getting my Masters Degree in Cybersecurity. When it comes to programming I am self taught and I am currently taking classes for HTML and Python.
 
-What else do you need?
+(Code Icon) I enjoy writing code. While I have never published anything I have worked on mods for Terraria and Minecraft. I have also made prototype games in Unreal Engine 4 and Pokemon fan games using RPG Maker XP.
 
-### My story
+(Heart Icon) I have many hobbies so when I have free time I like to travel, read, program, listen to music, draw, watch tv/movies and talk to my best friend Aaron.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+(Document Icon) I do not have any projects publicaly avaiable and if that changes I will up date this section.
+
+(Globe Icon) I grew up in Mesa, Arizona and have lived here my whole life. After college I plan on moveing out of this state.
+
+*Contact
+
+You can [email me](bambitheway@gmail.com) or find me on social media (which is linked at the bottom of this website) if you want to get in touch.
+
+I am a full time nerd when it comes to stuff like Marvel, Starwars and technology so feel free to reach out if you want to chat.
